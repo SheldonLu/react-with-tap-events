@@ -10,7 +10,7 @@ module.exports = {
     library: '[name]',
     path: __dirname + '/build/',
     publicPath: 'http://localhost:8080/build/',
-    filename: 'react-with-addons.js',
+    filename: 'react-with-tap.min.js',
   },
   devtools: 'eval',
   plugins: [],
